@@ -2,8 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Lautaro%20Olivera&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner" />
 
-  <h1>Lautaro Olivera</h1>
-  <h3>también conocido como <strong>Hoshi</strong></h3>
+  <h1>@eldomiinus</h1>
+  <h3>También conocido como <strong>Hoshi</strong></h3>
 
   <p>
     Desarrollador en formación con interés en fullstack y diseño de interfaces.<br/>
