@@ -56,11 +56,11 @@
 
 ###
 
-<br clear="both">
-
 <img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW51NXVxdWRxbW94ZzEyZmNzcXF0bDQ0MHh3czhlaXV3NW53emJzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif"  />
 
 ###
+
+<br clear="both">
 
 <div data-importer="socials" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
@@ -74,13 +74,9 @@
 
 ###
 
-<br clear="both">
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
