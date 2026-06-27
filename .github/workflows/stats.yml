@@ -22,7 +22,7 @@ jobs:
               uses: readme-tools/github-readme-stats-action@v1
               with:
                   card: stats
-                  options: username=${{ github.repository_owner }}&card_width=400&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=es&hide_border=true
+                  options: username=${{ github.repository_owner }}&card_width=520&custom_title=Estad%C3%ADsticas%20en%20GitHub%20de%20Hoshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=es&hide_border=true
                   path: dist/stats.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 

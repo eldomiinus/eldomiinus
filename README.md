@@ -26,17 +26,17 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/stats-output/stats.svg" width="340" alt="GitHub stats" />
+        <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/stats-output/stats.svg" width="420" alt="GitHub stats" />
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/languages-output/languages.svg" width="340" alt="Top languages" />
+        <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/languages-output/languages.svg" width="300" alt="Top languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" />
-          <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/pacman-contribution-graph.svg?game=pacman" width="680" alt="Pacman contribution graph" />
+          <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/pacman-contribution-graph.svg?game=pacman" width="720" alt="Pacman contribution graph" />
         </picture>
       </td>
     </tr>
@@ -72,10 +72,10 @@
 <div align="center">
 
   <h4>Lenguajes</h4>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,react&perline=7&theme=light" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,react&perline=7&theme=dark" alt="Lenguajes" />
 
   <h4>Herramientas</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,cursor,figma,linux,bash,mysql&perline=6&theme=light" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,bash,mysql&perline=5&theme=dark" alt="Herramientas" />
 
 </div>
 
