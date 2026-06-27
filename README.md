@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <div data-importer="stats" align="right">
   <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=eldomiinus&locale=es&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
@@ -89,20 +87,6 @@
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/Hoshi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hoshi&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
 </div>
 
