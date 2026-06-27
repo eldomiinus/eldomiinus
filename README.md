@@ -14,6 +14,12 @@
 
 <br clear="both">
 
+<h3 data-importer="text" align="left">Habilidades:</h3>
+
+###
+
+<br clear="both">
+
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -60,6 +66,10 @@
 
 ###
 
+<h3 data-importer="text" align="left">Contactos y redes:</h3>
+
+###
+
 <br clear="both">
 
 <div data-importer="socials" align="center">
@@ -76,16 +86,10 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
