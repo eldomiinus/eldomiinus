@@ -84,14 +84,6 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Hoshi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hoshi&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=eldomiinus.eldomiinus&left_text=Visitas"  />
 </div>
