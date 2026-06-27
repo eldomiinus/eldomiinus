@@ -67,7 +67,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ Stack</h3>
+<h3 align="center">🛠️ Habilidades</h3>
 
 <div align="center">
 
