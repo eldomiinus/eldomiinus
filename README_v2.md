@@ -8,9 +8,6 @@
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldomiinus&theme=github_dark)
 
 
-![GitHub stats](./profile/stats.svg)
-
-![Top languages](./profile/top-langs.svg)
 
 ### Stack
 
@@ -20,8 +17,6 @@
 ### Stack
 
 ![Skill icons](https://skillicons.dev/icons?i=vscode%2Cfigma%2Cwindows%2Clinux%2Cpostgresql%2Cmysql&perline=10&theme=dark)
-
-![3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <div align="center">
@@ -39,3 +34,8 @@
     <img src="garden-footer.svg" width="900" alt="" />
   </picture>
 </div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=eldomiinus&theme=tokyonight&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/eldomiinus)
+
