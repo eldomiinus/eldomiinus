@@ -1,0 +1,21 @@
+name: Living scene
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 3 horas
+    - cron: "23 */3 * * *"
+  workflow_dispatch: # Permite ejecutar la acción manualmente desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yuki4266/living-scene@v1
+        with:
+          lat: "-34.6037"              # Latitud de Buenos Aires
+          lon: "-58.3816"              # Longitud de Buenos Aires
+          tz: America/Argentina/Buenos_Aires # Tu zona horaria
