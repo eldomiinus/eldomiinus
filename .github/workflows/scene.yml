@@ -19,3 +19,4 @@ jobs:
           lat: "-34.6037"              # Latitud de Buenos Aires
           lon: "-58.3816"              # Longitud de Buenos Aires
           tz: America/Argentina/Buenos_Aires # Tu zona horaria
+          hemisphere: south            # CRUCIAL: Ajusta las estaciones para Argentina
