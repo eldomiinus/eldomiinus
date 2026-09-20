@@ -1,105 +1,58 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Lautaro%20Olivera&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner" />
-
-  <h1>@eldomiinus</h1>
-  <h3>También conocido como <strong>Hoshi</strong></h3>
-
-  <p>
-    Desarrollador en formación con interés en fullstack y diseño de interfaces.<br/>
-    Construyendo proyectos reales para crecer como profesional del software.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/GitHub-eldomiinus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Desarrollador-En_Formación-6366F1?style=for-the-badge&logo=code&logoColor=white" alt="Desarrollador en formación" />
-    <img src="https://img.shields.io/badge/UI%2FUX-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
-  </p>
-
+    <h1>🌌 Hoshi (Lautaro Olivera)</h1>
+    <b>Web Developer & Systems Administration Student</b>
 </div>
 
-<br/>
-
-<h3 align="center">📊 Actividad</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/stats-output/stats.svg" width="420" alt="GitHub stats" />
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/languages-output/languages.svg" width="300" alt="Top languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" />
-          <img src="https://raw.githubusercontent.com/eldomiinus/eldomiinus/pacman-output/pacman-contribution-graph.svg?game=pacman" width="720" alt="Pacman contribution graph" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<table align="center" width="900">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <h3>👤 Sobre mí</h3>
-      <p>
-        Estudiante de desarrollo de software con bases sólidas en programación. Me interesa crear interfaces claras y código mantenible. Actualmente estoy construyendo mi portfolio en GitHub con proyectos que demuestren lo que aprendo.
-      </p>
-    </td>
-    <td align="left" valign="top" width="50%">
-      <h3>📖 Aprendiendo ahora</h3>
-      <ul>
-        <li>⚡ TypeScript avanzado</li>
-        <li>♿ Diseño de interfaces accesibles (a11y)</li>
-        <li>⚙️ Automatización con GitHub Actions</li>
-        <li>🏗️ Buenas prácticas de arquitectura frontend</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3 align="center">🛠️ Habilidades</h3>
+<br>
 
 <div align="center">
 
-  <h4>Lenguajes</h4>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,react&perline=7&theme=dark" alt="Lenguajes" />
+[![Location - Static](https://img.shields.io/badge/Ubicación-ARGENTINA-blue?style=for-the-badge&logo=Google-Maps&logoColor=FFFFFF&labelColor=101418&color=99CCFF)](#)
+[![Age - Static](https://img.shields.io/badge/Edad-18-blue?style=for-the-badge&logo=Star&logoColor=FFFFFF&labelColor=101418&color=BBBBDD)](#)
+[![Tech - Static](https://img.shields.io/badge/Estudios-6to_Año_Técnico-blue?style=for-the-badge&logo=Codeigniter&logoColor=FFFFFF&labelColor=101418&color=99CCFF)](#)
+    
+</div>
 
-  <h4>Herramientas</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,bash,mysql&perline=5&theme=dark" alt="Herramientas" />
+<br>
+
+> **"Fusionando estéticas alternativas con código funcional."** Soy un apasionado por el desarrollo web, la administración de sistemas y la optimización de hardware. Siempre con los pies en la tierra, pero mirando las estrellas. ✨
+
+<br>
+
+## 🚀 Sobre Mí
+
+- **🎓 Formación:** Actualmente cursando el 6to año de secundaria técnica en CABA, especializándome en **Administración de Sistemas y Redes, Programación y Física**.
+- **💻 Intereses:** Desarrollo web moderno, diseño de entornos 3D, configuración de servidores (Linux/Windows) y exprimir al máximo el rendimiento del hardware.
+
+<br>
+
+## 🏗️ Stack Tecnológico
+
+<div align=center>
+
+| Capa | Tecnologías y Herramientas | Descripción |
+| :--- | :--- | :--- |
+| **🎨 Frontend & Diseño** | HTML5, CSS3, Spline, Photopea | Estructuración web, diseño responsivo y modelado de elementos interactivos en 3D. |
+| **⚙️ Entornos & Lógica** | VS Code, Node.js, JSON, Git | Herramientas de desarrollo, scripts de automatización y control de versiones. |
+| **🖥️ Sistemas & Hardware** | Linux Server, Windows Server | Administración de servidores, configuración de redes, y optimización/overclocking de componentes (BIOS). |
 
 </div>
 
-<br/>
+<br>
 
-<h3 align="center">📫 Contacto</h3>
+## 📈 Estadísticas de Desarrollo
 
 <div align="center">
-  <a href="https://github.com/eldomiinus" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-eldomiinus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/eldomiinus" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eldomiinus@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/eldomiinus/?hl=es" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=eldomiinus&show_icons=true&theme=tokyonight&hide_border=true&title_color=99CCFF&icon_color=BBBBDD" height="160" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldomiinus&layout=compact&theme=tokyonight&hide_border=true&title_color=99CCFF" height="160" alt="Lenguajes más usados" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eldomiinus&label=Visitas&color=6366f1&style=for-the-badge" alt="Visitas al perfil" />
+
+<h2>¡Gracias por visitar mi perfil! 🖤</h2>
+
+[![GitHub last commit - Dynamic](https://img.shields.io/github/last-commit/eldomiinus/eldomiinus?style=for-the-badge&logo=Git&logoColor=65686B&label=Last%20Update&labelColor=101418&color=BBBBDD)](#)
+
 </div>
